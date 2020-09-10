@@ -20,4 +20,5 @@ debes ir a extensiones y descargar la extension flutter de parte de dartcode y y
 
 corremos el codigo en la consola:
 https://dart.dev/
+//EL lenguaje dart es fuertemente tipado con las variables, elegir el valor es opcional por que estos lenguajes vienen con reconocimineto de varialbes y las asigna de manera automatica.
  */
