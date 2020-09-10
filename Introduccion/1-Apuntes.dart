@@ -17,4 +17,7 @@ Jetbrains tambien que es el id de android studio.
 
 Instalacion en visual estudio Code
 debes ir a extensiones y descargar la extension flutter de parte de dartcode y ya podemos escribir codigo dart.
+
+corremos el codigo en la consola:
+https://dart.dev/
  */
